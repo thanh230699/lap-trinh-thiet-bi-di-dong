@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dl thongtin</string>
+    <string name="email">Email<font color="#ff0000">*</font></string>
+    <string name="sdt">Số điện thoại<font color="#ff0000">*</font></string>
+    <string name="ngaysinh">Ngày sinh<font color="#ff0000">*</font></string>
+    <string name="mssv">Mã số sinh viên<font color="#ff0000">*</font></string>
+    <string name="hoten">Họ và tên<font color="#ff0000">*</font></string>
+</resources>
